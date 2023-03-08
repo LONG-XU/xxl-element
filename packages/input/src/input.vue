@@ -153,6 +153,10 @@
         type: String,
         default: 'text'
       },
+      background: {
+        type: String,
+        default: ''
+      },
       autosize: {
         type: [Boolean, Object],
         default: false
